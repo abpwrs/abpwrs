@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on multi-agent reinforcement learning
+- 🌱 I’m currently learning about soft-parameter sharing, and deep learning model serving
+- 🌐 https://alexpowers.dev
+
 <!--
 **abpwrs/abpwrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
