@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on multi-agent reinforcement learning
+- 🔭 I’m currently working on multi-agent reinforcement learning in medical images
 - 🌱 I’m currently learning about soft-parameter sharing, and deep learning model serving
+- 🤔 I’m also building my own independent study on [reinforcement learning](https://github.com/abpwrs/rl)
 - 🌐 https://alexpowers.dev
 
 <!--
