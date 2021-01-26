@@ -1,9 +1,10 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on multi-agent reinforcement learning in medical images
-- 🌱 I’m currently learning about soft-parameter sharing, and deep learning model serving
-- 🤔 I’m also building my own independent study on [reinforcement learning](https://github.com/abpwrs/rl)
-- 🌐 https://alexpowers.dev
+### 📌 Projects
+- 🔭 Working on multi-agent reinforcement learning in medical images
+- 🌱 Learning about soft-parameter sharing, and deep learning model serving
+- 🤔 Creating an independent study on [reinforcement learning](https://github.com/abpwrs/rl)
+
+🌐 [alexpowers.dev](https://alexpowers.dev)
 
 <!--
 **abpwrs/abpwrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
