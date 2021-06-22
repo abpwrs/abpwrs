@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abpwrs&show_icons=true&theme=dracula&count_private=true">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abpwrs&hide=javascript,html,Jupyter%20Notebook&layout=compact&theme=dracula&count_private=true">
