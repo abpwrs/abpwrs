@@ -1,10 +1,10 @@
 
 ### 📌 Projects
-- 🔭 Working on multi-agent reinforcement learning in medical images
-- 🌱 Learning about soft-parameter sharing, and deep learning model serving
-- 🤔 Creating an independent study on [reinforcement learning](https://github.com/abpwrs/rl)
+- 🔭 Working on computer vision and computational geometry problems
+- 🌱 Learning about MLOps & reproducible machine learning
+- 💬 Ask me about medical imaging or reproducible science
 
-🌐 [alexpowers.dev](https://alexpowers.dev)
+#### 🌐 [Website](https://alexpowers.dev) &middot; 📫 [Contact](mailto:alexander.powers.dev@gmail.com)
 
 <!--
 **abpwrs/abpwrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p float="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abpwrs&show_icons=true&theme=vue&count_private=true&hide=stars">
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abpwrs&show_icons=true&theme=dracula&count_private=true">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abpwrs&hide=javascript,html,Jupyter%20Notebook&layout=compact&theme=dracula&count_private=true">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abpwrs&hide=javascript,html,Jupyter%20Notebook&layout=compact&theme=vue&count_private=true">
+</a>
+</p>
