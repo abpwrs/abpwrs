@@ -2,7 +2,7 @@
 ### 📌 Projects
 - 🔭 Working on computer vision and computational geometry problems
 - 🌱 Learning about MLOps & reproducible machine learning
-- 💬 Ask me about medical imaging or reproducible science
+- 💬 Ask me about medical imaging and reproducible science
 
 #### 🌐 [Website](https://alexpowers.dev) &middot; 📫 [Contact](mailto:alexander.powers.dev@gmail.com)
 
