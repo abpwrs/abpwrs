@@ -2,8 +2,6 @@
 - 🔭 I'm currently working on computer vision and computational geometry problems
 - 🌱 I'm currently learning about MLOps & reproducible machine learning
 - 💬 Ask me about medical imaging and reproducible science!
-- [📫](mailto:alexander.powers.dev@gmail.com) Contact 
-
 
 <!--
 **abpwrs/abpwrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
