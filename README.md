@@ -1,10 +1,9 @@
+### Hi, I'm [Alex](https://alexpowers.dev) 
+- 🔭 I'm currently working on computer vision and computational geometry problems
+- 🌱 I'm currently learning about MLOps & reproducible machine learning
+- 💬 Ask me about medical imaging and reproducible science!
+- Contact [📫](mailto:alexander.powers.dev@gmail.com) 
 
-### 📌 About
-- 🔭 Working on computer vision and computational geometry problems
-- 🌱 Learning about MLOps & reproducible machine learning
-- 💬 Ask me about medical imaging and reproducible science
-
-#### 🌐 [Website](https://alexpowers.dev) &middot; 📫 [Contact](mailto:alexander.powers.dev@gmail.com)
 
 <!--
 **abpwrs/abpwrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
