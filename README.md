@@ -2,7 +2,7 @@
 - 🔭 I'm currently working on computer vision and computational geometry problems
 - 🌱 I'm currently learning about MLOps & reproducible machine learning
 - 💬 Ask me about medical imaging and reproducible science!
-- Contact [📫](mailto:alexander.powers.dev@gmail.com) 
+- [📫](mailto:alexander.powers.dev@gmail.com) Contact 
 
 
 <!--
