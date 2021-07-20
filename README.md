@@ -1,5 +1,5 @@
 
-### 📌 Projects
+### 📌 About
 - 🔭 Working on computer vision and computational geometry problems
 - 🌱 Learning about MLOps & reproducible machine learning
 - 💬 Ask me about medical imaging and reproducible science
