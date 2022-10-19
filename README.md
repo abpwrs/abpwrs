@@ -22,8 +22,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abpwrs&show_icons=true&theme=vue&count_private=true&hide=stars">
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abpwrs&hide=javascript,css,html,Jupyter%20Notebook,Vim%20Script&layout=compact&theme=vue&count_private=true">
-</a>
-</p>
